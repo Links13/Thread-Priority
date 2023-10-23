@@ -1,0 +1,11 @@
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\obj\Debug\Thread Priority.csproj.AssemblyReference.cache
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\obj\Debug\Thread Priority.csproj.SuggestedBindingRedirects.cache
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\obj\Debug\Thread_Priority.frmTrackThread.resources
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\obj\Debug\Thread_Priority.Properties.Resources.resources
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\obj\Debug\Thread Priority.csproj.GenerateResource.cache
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\obj\Debug\Thread Priority.csproj.CoreCompileInputs.cache
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\bin\Debug\Thread Priority.exe.config
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\bin\Debug\Thread Priority.exe
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\bin\Debug\Thread Priority.pdb
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\obj\Debug\Thread Priority.exe
+C:\Users\agustin.247591\source\repos\Thread Priority\Thread Priority\obj\Debug\Thread Priority.pdb
